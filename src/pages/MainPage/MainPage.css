@@ -1,0 +1,10 @@
+.main-content {
+  padding: 24px;
+  margin: 24px 16px;
+  min-height: calc(100vh - 24px * 2);
+}
+
+.main-content .leaflet-container {
+  height: 100%;
+  width: 100%;
+}
