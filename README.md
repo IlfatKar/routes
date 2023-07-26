@@ -12,3 +12,5 @@ npm run dev
 npm run build
 npm run preview
 ```
+
+![Image](https://files.catbox.moe/gz1faf.png)
